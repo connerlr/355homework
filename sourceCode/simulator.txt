@@ -1,0 +1,5 @@
+Build: 
+g++ -std=c++11 main.cpp
+mv a.out simulator
+Run:
+./simulator
